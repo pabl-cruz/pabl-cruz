@@ -1,8 +1,8 @@
 ## Hola! 👋
 
-Soy Pablo Cruz, de profesión Diseñador y Desarrollador de sitios webs desde 2021. 🖥️
+Soy Pablo Cruz, de profesión Diseñador y Desarrollador de sitios webs desde 2021. Con conocimientos en programación Front-End y diseño UX/UI. 🖥️
 
-Actualmente Estudiando en el Bootcamp de programación Front-end en Desafío Latam, y una certificación de Diseño UX/UI en Coderhouse. 
+Actualmente estoy estudiando en el bootcamp de Programación Front-end en Desafío Latam, y una certificación de Diseño UX/UI en Coderhouse. 
 
 Puedes ver mi [portafolio gráfico en Behance](http://www.behance.net/urqueh), o mi [galería de pinturas digitales en DeviantArt](https://www.deviantart.com/urqueh)
 
