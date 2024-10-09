@@ -1,10 +1,12 @@
 ## Hola! 👋
 
-Soy Pablo Cruz, de profesión Diseñador y Desarrollador de sitios webs desde 2021. Con conocimientos en programación Front-End y diseño UX/UI. 🖥️
+Soy Pablo Cruz, de profesión Diseñador y Desarrollador de sitios webs desde 2021. Con conocimientos en programación Front-End y diseño UX/UI. 🖥️ 
 
-Actualmente estoy estudiando en el bootcamp de Programación Front-end en Desafío Latam
+Actualmente estoy estudiando en el bootcamp de Programación Front-end con Vue en Desafío Latam.
 
-Puedes ver mi [portafolio gráfico en Behance](http://www.behance.net/urqueh), o mi [galería de pinturas digitales en DeviantArt](https://www.deviantart.com/urqueh)
+Me gusta la tecnología, y mi aporte es a través de la aplicación y experimientación visual y de comunicación en a través de sitios web y apps con mis conocimientos de diseño y programación. En paralelo suelo realizar ilustraciones y pinturas digitales en donde el entorno y el paisaje urbano son protagonistas. 
+
+Puedes ver mi [portafolio gráfico en Behance](http://www.behance.net/urqueh),mi [LinkedIn](https://linkedin.com/in/pablo-cruz-salinas) y mi [galería de pinturas digitales en DeviantArt](https://www.deviantart.com/urqueh)
 
 <!--
 **pabl-cruz/pabl-cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
